@@ -9,7 +9,7 @@ Open index.html in your preferred web browser to see the hero section in action.
 
 Modify styles.css and script.js to customize the design and functionality as needed.
 
-Features
+# Features
 
 HTML Structure: Basic structure for the hero section with header, description, and call-to-action button.
 
@@ -21,7 +21,7 @@ Hover Interactions: Interactive hover effects for the button.
 
 Mouse Movement Effects: Dynamic response to mouse movements for an engaging experience.
 
-Technologies Used
+# Technologies Used
 
 HTML5: For the structure of the hero section.
 
@@ -33,7 +33,7 @@ GSAP (GreenSock Animation Platform): For initial animations and mouse movement e
 
 Bootstrap (Optional): For additional styling and responsiveness.
 
-Bonus Features
+# Bonus Features
 
 Bootstrap Integration: Optional use of Bootstrap for enhanced styling and responsiveness.
 
