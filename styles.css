@@ -1,0 +1,49 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('Purple Building.png') no-repeat center center/cover;
+  color: white;
+  overflow: hidden;
+  position: relative;
+}
+
+.hero-content {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better text readability */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+.cta {
+  background-color: #e74c3c;
+  border: none;
+  padding: 15px 30px;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.cta:hover {
+  background-color: #c0392b;
+  transform: scale(1.05);
+  transition: background-color 0.3s, transform 0.3s;
+}
